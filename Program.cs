@@ -4,7 +4,7 @@
  */
 
 
-string[] ArrayInit(int size)
+string[] ArrayInit(int size
 {
     string[] array = new string[size];
 
