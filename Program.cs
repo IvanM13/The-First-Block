@@ -31,7 +31,7 @@ int GetNumber(string message)
     return result;
 }
 
-string[] Array2 (string[] array
+string[] Array2 (string[] array)
 {
     string[] resultArray = new string[0];
     int anotherSize = 0;
